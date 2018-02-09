@@ -27,7 +27,7 @@ Returns the keys to be used when caching, depending on if the site is currently 
 
 #### Remarks
 
-This allows for multiple caches to be used (one for live, and one for preview mode).
+This allows for multiple caches to be used (one for live, one for preview mode, and one for the back office).
 
 
 ## UmbracoCachingHandlers

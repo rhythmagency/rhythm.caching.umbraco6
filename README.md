@@ -1,5 +1,7 @@
 # Introduction
 
+Umbraco 6 version of [Rhythm.Caching.Umbraco](https://github.com/rhythmagency/rhythm.caching.umbraco).
+
 Builds upon [Rhythm.Caching.Core](https://github.com/rhythmagency/rhythm.caching.core) with tools to invalidate caches
 based on events in Umbraco.
 
@@ -7,7 +9,7 @@ Refer to the [generated documentation](docs/generated.md) for more details.
 
 # Installation
 
-Install with NuGet. Search for "Rhythm.Caching.Umbraco".
+Install with NuGet. Search for "Rhythm.Caching.Umbraco6".
 
 # Overview
 
